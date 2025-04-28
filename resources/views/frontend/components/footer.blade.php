@@ -6,7 +6,7 @@
                 <div class="single-item col-lg-3 col-md-6 col-12">
                     <div class="footer-box">
                         <div class="footer-logo">
-                            <a href="index-2.html"><img src="img/footerlogo.png" class="img-fluid" alt="footer-logo"></a>
+                            <a href="index-2.html"><img src="{{ asset('frontend/img/footerlogo.png') }}" class="img-fluid" alt="footer-logo"></a>
                         </div>
                         <div class="footer-about">
                             <p>We are ipsum dolor sit amet aeeatt consectetuer adipiscing elitseder diam

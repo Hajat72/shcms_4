@@ -50,7 +50,7 @@
             <div class="row no-gutters d-flex align-items-center">
                 <div class="col-lg-2 logo-area-layout1">
                     <a href="index-2.html" class="temp-logo">
-                        <img src="img/logo.png" alt="logo" class="img-fluid">
+                        <img src="{{ asset('frontend/img/logo.png') }}" alt="logo" class="img-fluid">
                     </a>
                 </div>
                 <div class="col-lg-7 possition-static">
