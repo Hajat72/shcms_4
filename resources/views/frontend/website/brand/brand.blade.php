@@ -9,13 +9,13 @@
                 <img src="img/brand/brand-bg1.png" alt="brand" class="img-fluid d-none d-lg-block">
                 <ul>
                     <li>
-                        <img src="img/brand/brand1.png" alt="brand" class="img-fluid">
+                        <img src="{{ asset('frontend/img/brand/brand1.png') }}" alt="brand" class="img-fluid">
                     </li>
                     <li>
-                        <img src="img/brand/brand2.png" alt="brand" class="img-fluid">
+                        <img src="{{ asset('frontend/img/brand/brand2.png') }}" alt="brand" class="img-fluid">
                     </li>
                     <li>
-                        <img src="img/brand/brand3.png" alt="brand" class="img-fluid">
+                        <img src="{{ asset('frontend/img/brand/brand3.png') }}" alt="brand" class="img-fluid">
                     </li>
                 </ul>
             </div>
