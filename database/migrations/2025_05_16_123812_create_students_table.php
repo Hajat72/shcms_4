@@ -15,7 +15,9 @@ return new class extends Migration
             $table->id();
             $table->string('name')->nullable();
             $table->string('email')->nullable();
-            $table->foreignId('department_id')->constrained()->onDelete('cascade');
+            $table->string('cnic')->nullable();
+            $table->string('contact_number')->nullable();
+            $table->string('address')->nullable();
             $table->timestamps();
         });
     }

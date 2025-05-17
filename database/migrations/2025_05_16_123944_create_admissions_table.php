@@ -14,9 +14,10 @@ return new class extends Migration
         Schema::create('admissions', function (Blueprint $table) {
             $table->id();
             $table->foreignId('student_id')->constrained()->onDelete('cascade');
-            $table->foreignId('department_id')->constrained()->onDelete('cascade');
             $table->date('admission_date');
-            $table->string('status')->default('pending');
+            $table->string('session');
+            $table->string('department');
+            $table->string('program');
             $table->timestamps();
         });
     }
