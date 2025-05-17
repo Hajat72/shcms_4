@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->foreignId('student_id')->constrained()->onDelete('cascade');
             $table->foreignId('department_id')->constrained()->onDelete('cascade');
-            $table->date('addmission_date');
+            $table->date('admission_date');
             $table->string('status')->default('pending');
             $table->timestamps();
         });
