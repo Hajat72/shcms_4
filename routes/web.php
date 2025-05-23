@@ -3,6 +3,7 @@
 use App\Http\Controllers\AdmissionController;
 use App\Models\Admission;
 use Illuminate\Support\Facades\Route;
+
 //Frontend Routes
 Route::get('/', function () {
     return view('frontend.layouts.website');
@@ -17,4 +18,4 @@ Route::resources([
     'admissions' => AdmissionController::class,
 ]);
 
-route::get('/Admission', [AdmissionController::class, 'index'])->name('admissions.index');
+route::get('/Admission', [ AdmissionController::class, 'index' ])->name('admissions.index');

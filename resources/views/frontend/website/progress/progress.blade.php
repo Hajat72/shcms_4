@@ -1,5 +1,6 @@
-  <!-- Progress Area Start Here -->
-  <section class="progress-wrap-layout2 bg-overlay bg-overlay-primary80 bg-common parallaxie" data-bg-image="img/figure/figure1.jpg">
+<!-- Progress Area Start Here -->
+<section class="progress-wrap-layout2 bg-overlay bg-overlay-primary80 bg-common parallaxie"
+         data-bg-image="img/figure/figure1.jpg">
     <div class="container">
         <div class="row">
             <div class="progress-box-layout2 col-md-4">

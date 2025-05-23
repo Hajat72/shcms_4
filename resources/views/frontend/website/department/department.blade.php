@@ -21,7 +21,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>06</span>Specialist Docotrs</li>
+                                <span>06</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -41,7 +42,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>08</span>Specialist Docotrs</li>
+                                <span>08</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -61,7 +63,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>02</span>Specialist Docotrs</li>
+                                <span>02</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -81,7 +84,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>10</span>Specialist Docotrs</li>
+                                <span>10</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -101,7 +105,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>06</span>Specialist Docotrs</li>
+                                <span>06</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -121,7 +126,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>10</span>Specialist Docotrs</li>
+                                <span>10</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -141,7 +147,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>08</span>Specialist Docotrs</li>
+                                <span>08</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -161,7 +168,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>02</span>Specialist Docotrs</li>
+                                <span>02</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -181,7 +189,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>08</span>Specialist Docotrs</li>
+                                <span>08</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -201,7 +210,8 @@
                         <ul class="department-info">
                             <li>
                                 <i class="flaticon-doctor"></i>
-                                <span>02</span>Specialist Docotrs</li>
+                                <span>02</span>Specialist Docotrs
+                            </li>
                         </ul>
                     </div>
                 </div>

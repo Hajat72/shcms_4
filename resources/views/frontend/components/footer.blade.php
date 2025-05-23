@@ -1,12 +1,12 @@
- <!-- Footer Area Start Here -->
- <footer>
+<footer>
     <section class="footer-top-wrap">
         <div class="container">
             <div class="row">
                 <div class="single-item col-lg-3 col-md-6 col-12">
                     <div class="footer-box">
                         <div class="footer-logo">
-                            <a href="index-2.html"><img src="{{ asset('frontend/img/footerlogo.png') }}" class="img-fluid" alt="footer-logo"></a>
+                            <a href="index-2.html"><img src="img/footerlogo.png" class="img-fluid"
+                                                        alt="footer-logo"></a>
                         </div>
                         <div class="footer-about">
                             <p>We are ipsum dolor sit amet aeeatt consectetuer adipiscing elitseder diam
@@ -102,10 +102,10 @@
                                 <div class="input-group stylish-input-group">
                                     <input type="text" class="form-control" placeholder="Enter your e-mail">
                                     <span class="input-group-addon">
-                                        <button type="submit">
-                                            <span aria-hidden="true">SIGN UP!</span>
-                                        </button>
-                                    </span>
+                                                <button type="submit">
+                                                    <span aria-hidden="true">SIGN UP!</span>
+                                                </button>
+                                            </span>
                                 </div>
                             </div>
                         </div>
@@ -115,8 +115,11 @@
         </div>
     </section>
     <section class="footer-bottom-wrap">
-        <div class="copyright">Copyright @ 2018 medilink. All Rights Reserved.<a target="_blank" href="https://www.radiustheme.com/" rel="nofollow">
+        <div class="copyright">Copyright @ 2018 medilink. All Rights Reserved.<a target="_blank"
+                                                                                 href="https://www.radiustheme.com/"
+                                                                                 rel="nofollow">
                 RadiusTheme</a></div>
     </section>
 </footer>
 <!-- Footer Area End Here -->
+</div>

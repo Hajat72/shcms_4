@@ -1,5 +1,5 @@
-   <!-- Service Area Start Here -->
-   <section class="service-wrap-layout1 bg-light-primary100">
+<!-- Service Area Start Here -->
+<section class="service-wrap-layout1 bg-light-primary100">
     <div class="container">
         <div class="row no-gutters service-inner-layout1">
             <div class="single-item col-lg-3 col-md-6 col-12">

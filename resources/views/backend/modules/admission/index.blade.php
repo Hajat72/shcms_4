@@ -16,8 +16,9 @@
                         <th class="text-white">S#</th>
                         <th class="text-white">Name</th>
                         <th class="text-white">Email</th>
-                        <th class="text-white">Code</th>
-                        <th class="text-white">Status</th>
+                        <th class="text-white">CNIC</th>
+                        <th class="text-white">Contact Number</th>
+                        <th class="text-white">Address</th>
                         <th class="text-white">Action</th>
                     </tr>
                 </thead>
@@ -27,7 +28,9 @@
                         <td>{{ $loop->iteration }}</td>
                         <td>{{ $model->name ?? 'NA' }}</td>
                         <td>{{ $model->email ?? 'NA' }}</td>
-                        <td>{{ $model->status ?? 'NA' }}</td>
+                        <td>{{ $model->cnic ?? 'NA' }}</td>
+                        <td>{{ $model->contact_number ?? 'NA' }}</td>
+                        <td>{{ $model->address ?? 'NA' }}</td>
                         <td class="d-flex justify-content-center">
                             <a href="#" class="btn btn-warning btn-sm mx-1">
                                 <i class="fas fa-edit"></i> Edit</a>

@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Admission;
 use Illuminate\Http\Request;
+use App\Http\Controllers\Controller;
 
 class AdmissionController extends Controller
 {
@@ -12,8 +13,8 @@ class AdmissionController extends Controller
      */
     public function index()
     {
-        $models = Admission::all();
-        return view('backend.modules.admission.index',compact('models'));
+        $admissions = Admission::all();
+        return view('backend.modules.admission.index',compact('admissions'));
     }
 
     /**
@@ -21,7 +22,9 @@ class AdmissionController extends Controller
      */
     public function create()
     {
-       return view('backend.modules.admission.create');
+       $departments = Department::all();
+       return view('backend.modules.admission.create',compact('admissions'));
+
     }
 
     /**

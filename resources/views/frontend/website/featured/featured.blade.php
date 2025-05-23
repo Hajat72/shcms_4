@@ -1,5 +1,5 @@
-  <!-- Featured Area Start Here -->
-  <section class="features-wrap-layout1">
+<!-- Featured Area Start Here -->
+<section class="features-wrap-layout1">
     <div class="features-box-layout2 d-lg-flex">
         <div class="item-img">
             <img src="img/figure/figure9.jpg" class="img-responsive" alt="figure">
@@ -18,21 +18,24 @@
                                 <div class="progress">
                                     <div class="lead">Efficency</div>
                                     <div style="width: 80%; visibility: visible; animation-duration: 1.5s; animation-delay: 0.1s;"
-                                        data-progress="95%" class="progress-bar progress-bar-striped wow fadeInLeft animated">
+                                         data-progress="95%"
+                                         class="progress-bar progress-bar-striped wow fadeInLeft animated">
                                         <span>80%</span>
                                     </div>
                                 </div>
                                 <div class="progress">
                                     <div class="lead">Experience</div>
                                     <div style="width: 95%; visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s;"
-                                        data-progress="85%" class="progress-bar progress-bar-striped wow fadeInLeft animated">
+                                         data-progress="85%"
+                                         class="progress-bar progress-bar-striped wow fadeInLeft animated">
                                         <span>95%</span>
                                     </div>
                                 </div>
                                 <div class="progress">
                                     <div class="lead">Experience</div>
                                     <div style="width: 75%; visibility: visible; animation-duration: 1.5s; animation-delay: 0.3s;"
-                                        data-progress="99%" class="progress-bar progress-bar-striped wow fadeInLeft animated">
+                                         data-progress="99%"
+                                         class="progress-bar progress-bar-striped wow fadeInLeft animated">
                                         <span>75%</span>
                                     </div>
                                 </div>

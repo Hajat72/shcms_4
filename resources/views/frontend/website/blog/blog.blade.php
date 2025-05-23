@@ -1,5 +1,5 @@
- <!-- Blog-Area Start Here -->
- <section class="blog-wrap-layout4 bg-light-secondary100">
+<!-- Blog-Area Start Here -->
+<section class="blog-wrap-layout4 bg-light-secondary100">
     <div class="container">
         <div class="section-heading heading-dark text-center heading-layout1">
             <h2>Our Latest News</h2>
@@ -20,7 +20,9 @@
                         <h3 class="item-title">
                             <a href="single-blog.html">My dental office need a blog area scrambled type</a>
                         </h3>
-                        <p>Rmply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since thRmply dummy text of the printing and typesetting industry.
+                        <p>Rmply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                            industry’s standard dummy text ever since thRmply dummy text of the printing and
+                            typesetting industry.
                         </p>
                         <div class="post-actions-wrapper">
                             <ul>
@@ -52,7 +54,9 @@
                         <h3 class="item-title">
                             <a href="single-blog.html">My dental office need a blog area scrambled type</a>
                         </h3>
-                        <p>Rmply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since thRmply dummy text of the printing and typesetting industry.
+                        <p>Rmply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                            industry’s standard dummy text ever since thRmply dummy text of the printing and
+                            typesetting industry.
                         </p>
                         <div class="post-actions-wrapper">
                             <ul>
@@ -84,7 +88,9 @@
                         <h3 class="item-title">
                             <a href="single-blog.html">My dental office need a blog area scrambled type</a>
                         </h3>
-                        <p>Rmply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since thRmply dummy text of the printing and typesetting industry.
+                        <p>Rmply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                            industry’s standard dummy text ever since thRmply dummy text of the printing and
+                            typesetting industry.
                         </p>
                         <div class="post-actions-wrapper">
                             <ul>

@@ -1,5 +1,5 @@
-  <!-- Brand Area Start Here -->
-  <section class="brand-wrap-layout1 bg-primary100">
+<!-- Brand Area Start Here -->
+<section class="brand-wrap-layout1 bg-primary100">
     <div class="container">
         <div class="row">
             <div class="brand-box-layout1 col-xl-7 col-lg-6 col-md-12 col-12">
@@ -9,13 +9,13 @@
                 <img src="img/brand/brand-bg1.png" alt="brand" class="img-fluid d-none d-lg-block">
                 <ul>
                     <li>
-                        <img src="{{ asset('frontend/img/brand/brand1.png') }}" alt="brand" class="img-fluid">
+                        <img src="img/brand/brand1.png" alt="brand" class="img-fluid">
                     </li>
                     <li>
-                        <img src="{{ asset('frontend/img/brand/brand2.png') }}" alt="brand" class="img-fluid">
+                        <img src="img/brand/brand2.png" alt="brand" class="img-fluid">
                     </li>
                     <li>
-                        <img src="{{ asset('frontend/img/brand/brand3.png') }}" alt="brand" class="img-fluid">
+                        <img src="img/brand/brand3.png" alt="brand" class="img-fluid">
                     </li>
                 </ul>
             </div>

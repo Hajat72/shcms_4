@@ -64,11 +64,11 @@
                                         <label for="department_id" class="form-label">Department</label>
                                         <select class="form-control" id="department_id" name="department_id" required>
                                             <option value="">Select Department</option>
-                                            @foreach ($departments as $department)
-                                                <option value="{{ $department->id }}" {{ old('department_id') == $department->id ? 'selected' : '' }}>
-                                                    {{ $department->name }}
-                                                </option>
-                                            @endforeach
+                                           @foreach ($departments as $department)
+    <option value="{{ $department->id }}" {{ old('department_id') == $department->id ? 'selected' : '' }}>
+        {{ $department->name }}
+    </option>
+@endforeach
                                         </select>
                                         @error('department_id')
                                             <span class="text-danger">{{ $message }}</span>
