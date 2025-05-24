@@ -9,7 +9,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department1.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department1.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
@@ -30,7 +30,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department2.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department2.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
@@ -51,7 +51,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department3.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department3.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
@@ -72,7 +72,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department4.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department4.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
@@ -93,7 +93,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item hidden">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department1.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department1.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
@@ -114,7 +114,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item hidden">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department4.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department4.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
@@ -135,7 +135,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item hidden">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department2.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department2.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
@@ -156,7 +156,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item hidden">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department3.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department3.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
@@ -177,7 +177,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item hidden">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department2.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department2.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
@@ -198,7 +198,7 @@
             <div class="col-xl-3 col-lg-6 col-md-6 col-12 menu-item hidden">
                 <div class="departments-box-layout1">
                     <div class="item-img">
-                        <img src="img/department/department3.jpg" alt="department" class="img-fluid">
+                        <img src="{{asset('frontend/img/department/department3.jpg')}}" alt="department" class="img-fluid">
                         <div class="item-btn-wrap">
                             <a href="single-department.html" class="item-btn">Details</a>
                         </div>
