@@ -2,7 +2,7 @@
 <section class="features-wrap-layout1">
     <div class="features-box-layout2 d-lg-flex">
         <div class="item-img">
-            <img src="img/figure/figure9.jpg" class="img-responsive" alt="figure">
+            <img src="{{asset('frontend/img/figure/figure9.jpg')}}" class="img-responsive" alt="figure">
         </div>
         <div class="item-content d-flex align-items-center">
             <div class="container">
