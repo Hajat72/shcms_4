@@ -1,5 +1,5 @@
 <!-- Testimonial Area Start Here -->
-<section class="testmonial-wrap-layout2 bg-common" data-bg-image="img/testimonial/testimonial-bg1.jpg">
+<section class="testmonial-wrap-layout2 bg-common" data-bg-image="{{asset('frontend/img/testimonial/testimonial-bg1.jpg')}}">
     <div class="container">
         <div class="rc-carousel dot-control-layout2" data-loop="true" data-items="1" data-margin="30"
              data-autoplay="true" data-autoplay-timeout="5000"
@@ -14,7 +14,7 @@
              data-r-extra-large-dots="true">
             <div class="testmonial-box-layout3">
                 <div class="item-img">
-                    <img src="img/testimonial/testimonial3.jpg" class="img-fulid rounded-circle"
+                    <img src="{{asset('frontend/img/testimonial/testimonial3.jpg')}}" class="img-fulid rounded-circle"
                          alt="Robert Addison">
                 </div>
                 <div class="item-content">
@@ -27,7 +27,7 @@
             </div>
             <div class="testmonial-box-layout3">
                 <div class="item-img">
-                    <img src="img/testimonial/testimonial3.jpg" class="img-fulid rounded-circle bg-common"
+                    <img src="{{asset('frontend/img/testimonial/testimonial3.jpg')}}" class="img-fulid rounded-circle bg-common"
                          alt="Robert Addison">
                 </div>
                 <div class="item-content">
@@ -40,7 +40,7 @@
             </div>
             <div class="testmonial-box-layout3">
                 <div class="item-img">
-                    <img src="img/testimonial/testimonial3.jpg" class="img-fulid rounded-circle bg-common"
+                    <img src="{{asset('frontend/img/testimonial/testimonial3.jpg')}}" class="img-fulid rounded-circle bg-common"
                          alt="Robert Addison">
                 </div>
                 <div class="item-content">
